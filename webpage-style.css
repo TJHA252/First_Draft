@@ -1,0 +1,100 @@
+
+html, body {
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    
+}
+li {
+    display: inline;
+}
+li a
+#Migrations_Encounters{
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50%;
+}
+li a{
+    float: right;
+    text-align: right;
+}
+li a {
+    display: block;
+    color: black;
+    text-align:center;
+    padding: 1.5%;
+    text-decoration: none;
+    
+}
+/* Change the link color to #f66 on hover */
+li a:hover {
+    background-color: #f66;
+}
+MIGRATION ENCOUNTERS{
+    font-family: serif;
+}
+
+.column{
+    
+    float: left;
+    width: 50%;
+    
+}
+
+/* Clear floats after the columns */
+.column:after{
+    float: left;
+    width: 50%;
+    
+}
+
+#sticky_image{
+    width: 100%;
+    /* position: -webkit-sticky; /*Safari*/
+    /* position:sticky; */
+    /* top: 0; */ 
+}
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+h3{
+    text-align: center;
+    font-family: sans-serif;
+}
+#stock{
+    height: 50%;
+    width: auto;
+    margin-left: 5%;
+    margin-right: auto;
+}
+#navigation{
+    position: -webkit-sticky; /*Safari*/
+    position:sticky;
+    top: 0;
+    height: 8%;
+    background-color: wheat;
+    
+}
+#logo_title{
+    float: left;
+    text-align: right;
+}
+#logo_image{
+    height: 100%;
+    width: auto;
+    margin: 0;
+    padding: 0%;
+}
+
